@@ -1,0 +1,19 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "file saver",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "big-number": "^2.0.0",
+    "bignumber": "^1.1.0",
+    "bignumber.js": "^9.0.1",
+    "formidable": "^1.2.2",
+    "multipart": "^0.1.5",
+    "nodemon": "^2.0.7",
+    "web3": "^1.3.5"
+  }
+}
